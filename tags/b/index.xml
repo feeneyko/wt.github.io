@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B on A Hugo Site</title>
-    <link>https://blog.feeney.moe/tags/b/</link>
-    <description>Recent content in B on A Hugo Site</description>
+    <title>B on Whimsical Thoughts</title>
+    <link>http://localhost:1313/tags/b/</link>
+    <description>Recent content in B on Whimsical Thoughts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Wed, 22 May 2024 01:04:50 -0400</lastBuildDate>
-    <atom:link href="https://blog.feeney.moe/tags/b/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/b/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Travel Photography</title>
-      <link>https://blog.feeney.moe/posts/on-travel-photography/</link>
+      <link>http://localhost:1313/posts/on-travel-photography/</link>
       <pubDate>Wed, 22 May 2024 01:04:50 -0400</pubDate>
-      <guid>https://blog.feeney.moe/posts/on-travel-photography/</guid>
+      <guid>http://localhost:1313/posts/on-travel-photography/</guid>
       <description></description>
     </item>
   </channel>
