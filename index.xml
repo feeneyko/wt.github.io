@@ -56,14 +56,14 @@
 &lt;p&gt;&lt;img src=&#34;../ssh-and-https.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下载安装 GutHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。&lt;/p&gt;
+&lt;p&gt;下载安装 GitHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;点击左上角工具栏下方的第一个大按钮，选择 &lt;code&gt;Add existing ...&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../add-ex.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;添加之前准备好的 &lt;code&gt;public&lt;/code&gt; 文件夹。GutHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。&lt;/p&gt;
+&lt;p&gt;添加之前准备好的 &lt;code&gt;public&lt;/code&gt; 文件夹。GitHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。以后每次写完只要打开 GitHub Desktop 一顿瞎按就好。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;3-可选设置自定义域名&#34;&gt;3 （可选）设置自定义域名&lt;/h2&gt;
@@ -71,7 +71,7 @@
 &lt;h2 id=&#34;4-其他&#34;&gt;4 其他&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;页面可能不显示修改后内容，可以开隐身模式查看&lt;/li&gt;
-&lt;li&gt;图片显示不出来：可以修改 &lt;code&gt;content&lt;/code&gt; 内文件目录，查看 &lt;code&gt;public&lt;/code&gt; 文件夹根据 &lt;code&gt;content&lt;/code&gt; 所生成的内容，同时在网页上查看图片所引用的位置，最后在 &lt;code&gt;.md&lt;/code&gt; 内调整图片引用或者在 &lt;code&gt;content&lt;/code&gt; 调整图片位置。&lt;/li&gt;
+&lt;li&gt;图片显示不出来：可以修改 &lt;code&gt;content&lt;/code&gt; 内文件目录，查看 &lt;code&gt;public&lt;/code&gt; 文件夹根据 &lt;code&gt;content&lt;/code&gt; 所生成的内容，同时在网页上查看图片所引用(view page source)的位置，最后在 &lt;code&gt;.md&lt;/code&gt; 内调整图片引用或者在 &lt;code&gt;content&lt;/code&gt; 调整图片位置。&lt;/li&gt;
 &lt;li&gt;TODO: 翻译功能&lt;/li&gt;
 &lt;/ol&gt;
 - https://blog.feeney.moe/posts/website-building/creating-a-website-with-github-pages-and-hugo/ - This is a customized copyright.</description>
