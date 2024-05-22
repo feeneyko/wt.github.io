@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A on A Hugo Site</title>
-    <link>http://localhost:1313/tags/a/</link>
+    <link>https://feeneyko.github.io/tags/a/</link>
     <description>Recent content in A on A Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Wed, 22 May 2024 01:04:50 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feeneyko.github.io/tags/a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Travel Photography</title>
-      <link>http://localhost:1313/on-travel-photography/</link>
+      <link>https://feeneyko.github.io/on-travel-photography/</link>
       <pubDate>Wed, 22 May 2024 01:04:50 -0400</pubDate>
-      <guid>http://localhost:1313/on-travel-photography/</guid>
+      <guid>https://feeneyko.github.io/on-travel-photography/</guid>
       <description></description>
     </item>
     <item>
       <title>Creating a Website With Github Pages and Hugo</title>
-      <link>http://localhost:1313/creating-a-website-with-github-pages-and-hugo/</link>
+      <link>https://feeneyko.github.io/creating-a-website-with-github-pages-and-hugo/</link>
       <pubDate>Wed, 22 May 2024 00:53:31 -0400</pubDate>
-      <guid>http://localhost:1313/creating-a-website-with-github-pages-and-hugo/</guid>
+      <guid>https://feeneyko.github.io/creating-a-website-with-github-pages-and-hugo/</guid>
       <description>1 参考这篇文章 如何用 GitHub Pages + Hugo 搭建个人博客 by 小绵尾巴&#xA;两点没有提到的：&#xA;在第六步安装和配置主题时，可能需要按需修改 .toml 文件的名字，否则可能无法预览&#xA;根据 exampleSite 内的 content 来修改archetypes 文件内的内容；防止以后创建文章 .md 内自动生成的文章信息错误&#xA;2 如果在第九步设置SSH时卡住了 可以尝试以下步骤。&#xA;确保 GitHub Pages 仓库的名字是 [username].github.io&#xA;一直按照上面的教程做完第 6.4 步，输完下面的命令&#xA;git remote add origin [...] 进入 ~\public\.git，修改config文件，在原本填的SSH 的位置放入 HTTPS&#xA;下载安装 GutHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。&#xA;点击左上角工具栏下方的第一个大按钮，选择 Add existing ...&#xA;添加之前准备好的 public 文件夹。GutHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。&#xA;3. （可选）设置自定义域名 Github pages使用自定义域名 by 余小梦</description>
     </item>
   </channel>
