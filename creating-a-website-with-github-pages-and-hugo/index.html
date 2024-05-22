@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 <title>Creating a Website With Github Pages and Hugo</title>
 
 
@@ -10,22 +10,20 @@
 <meta name="google-site-verification" content="">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 <meta content="telephone=no" name="format-detection">
-<meta name="description" content="WRITE HERE">
+<meta name="description" content="本文介绍了这个博客时如何搭建的">
 <meta name="renderer" content="webkit">
 <meta name="theme-color" content="#ffffff">
 
 
 
-<meta property="og:url" content="https://feeneyko.github.io/creating-a-website-with-github-pages-and-hugo/">
+<meta property="og:url" content="http://localhost:1313/creating-a-website-with-github-pages-and-hugo/">
   <meta property="og:site_name" content="A Hugo Site">
   <meta property="og:title" content="Creating a Website With Github Pages and Hugo">
-  <meta property="og:description" content="WRITE HERE">
+  <meta property="og:description" content="本文介绍了这个博客时如何搭建的">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:published_time" content="2024-05-22T00:53:31-04:00">
     <meta property="article:modified_time" content="2024-05-22T00:53:31-04:00">
-    <meta property="article:tag" content="A">
-    <meta property="article:tag" content="B">
 
 
 
@@ -34,7 +32,7 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Creating a Website With Github Pages and Hugo">
-  <meta name="twitter:description" content="WRITE HERE">
+  <meta name="twitter:description" content="本文介绍了这个博客时如何搭建的">
 
 
 
@@ -205,7 +203,25 @@
 						
 							<li>
 								<a href="#3-%e5%8f%af%e9%80%89%e8%ae%be%e7%bd%ae%e8%87%aa%e5%ae%9a%e4%b9%89%e5%9f%9f%e5%90%8d" class="nav-3-可选设置自定义域名">
-									3. （可选）设置自定义域名
+									3 （可选）设置自定义域名
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#4-%e5%85%b6%e4%bb%96" class="nav-4-其他">
+									4 其他
 								</a>
 							</li>
 						
@@ -232,7 +248,7 @@
                 menu
             </i>
         </button>
-        <a id="navTitle" class="navbar-brand" href="https://feeneyko.github.io/">
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
             A Hugo Site
         </a>
         
@@ -246,7 +262,7 @@
 </nav>
 <div class="single-column-header-container" id="pageHead"
      v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
-    <a href="https://feeneyko.github.io/">
+    <a href="http://localhost:1313/">
         <div class="single-column-header-title">A Hugo Site</div>
         
         <div class="single-column-header-subtitle">Themed by Diary.</div>
@@ -271,7 +287,7 @@
                     Creating a Website With Github Pages and Hugo
                     
                     <div class="post-subtitle">
-                        WRITE HERE
+                        本文介绍了这个博客时如何搭建的
                     </div>
                     
                     <div class="post-meta">
@@ -283,19 +299,10 @@
 
                         
                             <i class="material-icons" style="">folder</i>
-                                <a href="/categories/c">C</a>
+                                <a href="/categories/%E4%B8%80%E6%AC%A1%E6%80%A7%E6%95%99%E7%A8%8B">一次性教程</a>
                                 &nbsp;
                         
 
-                        
-                            <i class="material-icons" style="">label</i>
-                            
-                                <a href="/tags/a">A</a>
-                                &nbsp;
-                            
-                                <a href="/tags/b">B</a>
-                                &nbsp;
-                            
                         
                         
                     </div>
@@ -329,21 +336,26 @@
 </code></pre></li>
 <li>
 <p>进入 <code>~\public\.git</code>，修改config文件，在原本填的<code>SSH</code> 的位置放入 <code>HTTPS</code></p>
-<p><img src="image.png" alt="alt text"></p>
+<p><img src="images/ssh-and-https.png" alt="alt text"></p>
 </li>
 <li>
 <p>下载安装 GutHub Desktop。图形界面很简单，乱点一通或者随便搜下就能设置好。</p>
 </li>
 <li>
 <p>点击左上角工具栏下方的第一个大按钮，选择 <code>Add existing ...</code></p>
-<p><img src="image-2.png" alt="alt text"></p>
+<p><img src="images/add-ex.png" alt="alt text"></p>
 </li>
 <li>
 <p>添加之前准备好的 <code>public</code> 文件夹。GutHub Desktop 建议你按的按钮应该会有很显眼的提示。一顿瞎按，转到 GitHub 查看 GitHub Pages 仓库中是否存在刚刚推送的文件，存在则代表推送成功。</p>
 </li>
 </ol>
-<h2 id="3-可选设置自定义域名">3. （可选）设置自定义域名</h2>
+<h2 id="3-可选设置自定义域名">3 （可选）设置自定义域名</h2>
 <p><a href="https://zhuanlan.zhihu.com/p/529826545">Github pages使用自定义域名 by 余小梦</a></p>
+<h2 id="4-其他">4 其他</h2>
+<ol>
+<li>页面可能不显示修改后内容，可以开隐身模式查看</li>
+<li>TODO: 翻译功能</li>
+</ol>
 
                     
                     <HR width="100%" id="EOF">
@@ -381,7 +393,7 @@
                     </div>
             </div><div id="sideContainer" class="side-container">
     
-    <a class="a-block nav-head false" href="https://feeneyko.github.io/">
+    <a class="a-block nav-head false" href="http://localhost:1313/">
     
         <div class="nav-title">
             A Hugo Site
@@ -524,7 +536,25 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 						
 							<li>
 								<a href="#3-%e5%8f%af%e9%80%89%e8%ae%be%e7%bd%ae%e8%87%aa%e5%ae%9a%e4%b9%89%e5%9f%9f%e5%90%8d" class="nav-3-可选设置自定义域名">
-									3. （可选）设置自定义域名
+									3 （可选）设置自定义域名
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#4-%e5%85%b6%e4%bb%96" class="nav-4-其他">
+									4 其他
 								</a>
 							</li>
 						
