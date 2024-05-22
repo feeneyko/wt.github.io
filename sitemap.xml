@@ -17,7 +17,10 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-05-22T01:04:50-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/on-travel-photography/</loc>
+    <loc>http://localhost:1313/posts/on-travel-photography/</loc>
+    <lastmod>2024-05-22T01:04:50-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-22T01:04:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -35,22 +38,19 @@
     <loc>http://localhost:1313/categories/chinese/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/text/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chinese/</loc>
+    <loc>http://localhost:1313/posts/example-posts/chinese/</loc>
     <lastmod>2019-11-14T11:25:05-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/typography/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-5/</loc>
+    <loc>http://localhost:1313/posts/example-posts/post-5/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>http://localhost:1313/posts/example-posts/post-1/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/primer/</loc>
@@ -62,13 +62,13 @@
     <loc>http://localhost:1313/categories/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chapter-6/</loc>
+    <loc>http://localhost:1313/posts/example-posts/chapter-6/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/story/</loc>
     <lastmod>2017-04-14T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/chapter-1/</loc>
+    <loc>http://localhost:1313/posts/example-posts/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/scene/</loc>
