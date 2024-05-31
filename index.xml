@@ -7,9 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Feeney. Under CC-BY-NC 4.0.</copyright>
-    <lastBuildDate>Thu, 30 May 2024 17:04:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 18:07:30 -0400</lastBuildDate>
     
         <atom:link href="https://blog.feeney.moe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>三分钟学会查里程票</title>
+        <link>https://blog.feeney.moe/award-ticket-intro/</link>
+        <pubDate>Thu, 30 May 2024 18:07:30 -0400</pubDate>
+        
+        <guid>https://blog.feeney.moe/award-ticket-intro/</guid>
+        <description>Whimsical Musings https://blog.feeney.moe/award-ticket-intro/ -&lt;h2 id=&#34;转点伙伴&#34;&gt;转点伙伴&lt;/h2&gt;
+&lt;p&gt;不同的银行有不同的转点伙伴，例如 &lt;a href=&#34;https://www.uscreditcardguide.com/amex-membership-rewards-mr2/&#34;&gt;AMEX &lt;/a&gt;可以这样转 （注：&lt;strong&gt;建议先阅读此链接&lt;/strong&gt;，掌握大体概念）。转点&lt;strong&gt;可能不是秒到&lt;/strong&gt;！时效性可以自行谷歌搜索。&lt;/p&gt;
+&lt;p&gt;值得注意的有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一般情况下，同个联盟的航司可以出联盟内其他航司的奖励机票，例如加航可以出美联航。大多数可以网页出票&lt;/li&gt;
+&lt;li&gt;不同航司出票规则不同，例如&lt;strong&gt;全日空一定要出往返票&lt;/strong&gt;，某些航司要电话出票，某些航司电话出票要额外收费&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.uscreditcardguide.com/award-ticket-return-and-change-policies/&#34;&gt;退票规则&lt;/a&gt;也不同&lt;/li&gt;
+&lt;li&gt;部分航司只给特定伙伴放某些票，或者某些票只给自家里程计划放票&lt;/li&gt;
+&lt;li&gt;某些航空公司的里程更加值钱（商务/头等舱所需里程少，例如AA换JL的美日航线），某些更不值钱（商务舱所需里程多，例如CX，或需要额外付税费油钱等杂费，例如BA），但实际上大多数情况能换出跨洋商务舱都可以视为换出了价值&lt;/li&gt;
+&lt;li&gt;由于出票规则不一样，可能不适合出跨洋航线的里程计划适合出国内短线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bottom-line&#34;&gt;Bottom Line&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;关于不同里程计划的优劣有太多可以讲了，在此省略，大不了打算出票前先去谷歌查查有没有坑/值不值&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;可用性问题&#34;&gt;可用性问题&lt;/h2&gt;
+&lt;p&gt;笔者认为，查询里程票的难点主要是票的可用性不足。要兑换到里程票，最重要的就是明白怎样才能找到票（注：&lt;strong&gt;找到最低价格的票&lt;/strong&gt;-例如加航纽约飞往东京商务舱的低价是87,500 pts；票价超过此价格太多则视为没有票；该低价可以通过阅读&lt;a href=&#34;https://www.uscreditcardguide.com/introduction-to-new-air-canada-ac-aeroplan-miles/&#34;&gt;这类文章&lt;/a&gt;了解）&lt;/p&gt;
+&lt;h2 id=&#34;解决可用性问题&#34;&gt;解决可用性问题&lt;/h2&gt;
+&lt;h3 id=&#34;一般情况&#34;&gt;一般情况&lt;/h3&gt;
+&lt;p&gt;那么要如何找到票呢？可以通过各个航司官网直接搜索奖励机票。但是除了部分航司（i.e., &lt;a href=&#34;https://www.united.com/&#34;&gt;UA&lt;/a&gt;, &lt;a href=&#34;https://www.aa.com/&#34;&gt;AA&lt;/a&gt;），在航司官网搜索奖励机票并不能显示一整个月的可用性，响应也比较慢。&lt;/p&gt;
+&lt;p&gt;因此第三方工具可能是更方便的选择，例如&lt;a href=&#34;https://seats.aero/&#34;&gt;农贸市场&lt;/a&gt;，&lt;a href=&#34;https://www.cowtool.com/&#34;&gt;牛具&lt;/a&gt; ，&lt;a href=&#34;https://www.expertflyer.com/&#34;&gt;ExpertFlyer&lt;/a&gt;等等。&lt;/p&gt;
+&lt;p&gt;从易用性来讲，我推荐农贸市场。&lt;/p&gt;
+&lt;h3 id=&#34;农贸市场的功能&#34;&gt;农贸市场的功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;按照&lt;strong&gt;点数花费排序&lt;/strong&gt;，同时也可以筛选 Operating carriers 和用来换票的&lt;strong&gt;里程计划&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;可以同时搜索&lt;strong&gt;大量日期&lt;/strong&gt;，机场代码处可以填写&lt;strong&gt;多个代码&lt;/strong&gt;，部分代码包含大量机场，例如 &lt;code&gt;USA&lt;/code&gt;，包含了美国的主要机场。&lt;/li&gt;
+&lt;li&gt;Explore功能: 对于有特定某种点数，时间灵活，有大概目的地的找票很有帮助；也可以直接在里面筛选出发到达机场和日期。&lt;/li&gt;
+&lt;li&gt;功能不止这些，但最重要的是它最易用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;农贸市场的局限性&#34;&gt;农贸市场的局限性&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;不是实时刷新&lt;/strong&gt;票的库存，因此如果知道可能的放票时间，依然建议直接上官网查。&lt;/li&gt;
+&lt;li&gt;某些航司不支持查询，如国泰，需要使用其他工具，例如&lt;a href=&#34;https://greasyfork.org/zh-TW/scripts/449998-cathay-award-search-fixer-2022&#34;&gt;國泰獎勵機票搜尋引擎修復神器 2022&lt;/a&gt;。
+另一家常用但不支持的是哥伦比亚航空的 &lt;a href=&#34;https://www.lifemiles.com/account/overview&#34;&gt;Life Miles &lt;/a&gt;，但 Aeroplan（加航里程计划）和 Life Miles 同属一个联盟，他们的伙伴票可用性很多情况下是共同的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;超远临期&#34;&gt;超远/临期&lt;/h3&gt;
+&lt;p&gt;部分航司每天特定时间会放出&lt;strong&gt;下一年&lt;/strong&gt;某些日期一定数量的奖励机票，例如 &lt;a href=&#34;https://www.uscreditcardguide.com/introduction-to-new-air-canada-ac-aeroplan-miles/&#34;&gt;全日空&lt;/a&gt;；某些航司也会在&lt;strong&gt;临期&lt;/strong&gt;特定时间放出没有卖出的机票，例如 &lt;a href=&#34;https://www.uscardforum.com/t/topic/240656&#34;&gt;全日空&lt;/a&gt;, &lt;a href=&#34;https://www.uscardforum.com/t/topic/234655&#34;&gt;日航&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;bottom-line-1&#34;&gt;Bottom Line&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;除非知道什么时候放票，不然直接上农贸市场先找找。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+- https://blog.feeney.moe/award-ticket-intro/ - Feeney. Under CC-BY-NC 4.0.</description>
+        </item>
     
     
     
@@ -22,10 +74,10 @@
         <description>Whimsical Musings https://blog.feeney.moe/ten-locations-in-rochester/ -&lt;h2 id=&#34;the-woods&#34;&gt;The Woods&lt;/h2&gt;
 &lt;h3 id=&#34;1-cobbs-hill-park&#34;&gt;1. Cobbs Hill Park&lt;/h3&gt;
 &lt;h3 id=&#34;2-highland-park&#34;&gt;2. Highland Park&lt;/h3&gt;
-&lt;h4 id=&#34;21-lamberton-conservatory&#34;&gt;2.1 Lamberton Conservatory&lt;/h4&gt;
-&lt;h4 id=&#34;22-reservoir&#34;&gt;2.2 Reservoir&lt;/h4&gt;
-&lt;h4 id=&#34;23-warner-castle&#34;&gt;2.3 Warner Castle&lt;/h4&gt;
-&lt;h4 id=&#34;24-vietnam-war-memorial&#34;&gt;2.4 Vietnam War Memorial&lt;/h4&gt;
+&lt;h5 id=&#34;21-lamberton-conservatory&#34;&gt;2.1 Lamberton Conservatory&lt;/h5&gt;
+&lt;h5 id=&#34;22-reservoir&#34;&gt;2.2 Reservoir&lt;/h5&gt;
+&lt;h5 id=&#34;23-warner-castle&#34;&gt;2.3 Warner Castle&lt;/h5&gt;
+&lt;h5 id=&#34;24-vietnam-war-memorial&#34;&gt;2.4 Vietnam War Memorial&lt;/h5&gt;
 &lt;h3 id=&#34;3-genesee-valley-park&#34;&gt;3. Genesee Valley Park&lt;/h3&gt;
 &lt;h3 id=&#34;4-empire-state-trail&#34;&gt;4. Empire State Trail&lt;/h3&gt;
 &lt;p&gt;非常好的自行车道。&lt;/p&gt;
@@ -37,6 +89,18 @@
 &lt;h3 id=&#34;8-memorial-art-gallery&#34;&gt;8. Memorial Art Gallery&lt;/h3&gt;
 &lt;h3 id=&#34;9-george-eastman-museum&#34;&gt;9. George Eastman Museum&lt;/h3&gt;
 &lt;h3 id=&#34;10-the-strong-national-museum-of-play&#34;&gt;10. The Strong National Museum of Play&lt;/h3&gt;
+&lt;h2 id=&#34;额外推荐没有一个值得你额外跑一趟&#34;&gt;额外推荐（没有一个值得你额外跑一趟）：&lt;/h2&gt;
+&lt;h3 id=&#34;downtown-food-court&#34;&gt;Downtown Food Court&lt;/h3&gt;
+&lt;p&gt;240 E Main St, Rochester, NY 14604&lt;/p&gt;
+&lt;h3 id=&#34;shiki&#34;&gt;Shiki&lt;/h3&gt;
+&lt;p&gt;Japanese restaurant&lt;/p&gt;
+&lt;h3 id=&#34;zemeta-ethiopian-restaurant&#34;&gt;Zemeta Ethiopian Restaurant&lt;/h3&gt;
+&lt;p&gt;Ethiopian restaurant&lt;/p&gt;
+&lt;h3 id=&#34;the-lucky-flea-market&#34;&gt;The Lucky Flea Market&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/theluckyflea/?hl=en&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;需要预约&#34;&gt;需要预约&lt;/h2&gt;
+&lt;h3 id=&#34;kodak-film-factory-tours&#34;&gt;Kodak Film Factory Tours&lt;/h3&gt;
+&lt;p&gt;不是爱好者还是别去了。&lt;/p&gt;
 - https://blog.feeney.moe/ten-locations-in-rochester/ - Feeney. Under CC-BY-NC 4.0.</description>
         </item>
     
